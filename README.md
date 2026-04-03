@@ -186,6 +186,19 @@ Analysts can create but not modify records
 
 ---
 
+## Screenshots
+
+login.png
+POST records.png
+GET records.png
+dashboard.png
+dashboard_categories.png
+monthly_trends_dashboard.png
+
+Screenshots are provided to give an idea of API outputs
+
+---
+
 ## Final Notes
 
 This project demonstrates:
